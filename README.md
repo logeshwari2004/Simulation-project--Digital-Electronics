@@ -1,4 +1,4 @@
-#Design and simulate 5 bit binary to gray converter using Verilog. 
+# Design and simulate 5 bit binary to gray converter using Verilog. 
 
 # THEORY
 A Gray code, also known as a reflected binary code, is a binary numeral system where consecutive values differ by only one bit. The purpose of a binary to Gray code converter is to convert a binary number into its corresponding Gray code representation.
